@@ -133,5 +133,3 @@ cd college-placement-management-system
 
 ## Contributors
 - **Daniyal Shaikh**: www.linkedin.com/in/daniyal-shaikh86
-- **Member 4**: Neeraj Kumar
-
